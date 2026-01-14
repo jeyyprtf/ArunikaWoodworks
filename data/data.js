@@ -1,16 +1,17 @@
-import heroImage from './images/heroImage.jpg';
-import product1Image from './images/product-img-1.jpg';
-import product2Image from './images/product-img-2.jpeg';
-import product3Image from './images/product-img-3.jpg';
-import sustainableImage from './images/sustainable.jpg';
-import customDesignImage from './images/customDesign.jpg';
-import handcraftedQualityImage from './images/handcraft.jpg';
-import japaneseCoasterImage from './images/japanese-coaster.png';
-import mejaKerjaImage from './images/meja-kerja.jpeg';
-import rakImage from './images/rak.jpg';
+
+import heroImage from './images/heroImage.webp';
+import product1Image from './images/product-img-1.webp';
+import product2Image from './images/product-img-2.webp';
+import product3Image from './images/product-img-3.webp';
+import sustainableImage from './images/sustainable.webp';
+import customDesignImage from './images/customDesign.webp';
+import handcraftedQualityImage from './images/handcraft.webp';
+import japaneseCoasterImage from './images/japanese-coaster.webp';
+import mejaKerjaImage from './images/meja-kerja.webp';
+import rakImage from './images/rak.webp';
 
 export const siteMetadata = {
-    brand: "Arunika Woodwoorks",
+    brand: "Arunika Woodworks", 
     title: "Furniture Kayu Custom Malang | KayuAsli",
     description: "Furniture kayu custom buatan tangan pengrajin lokal Malang. Desain minimalis, kualitas ekspor, harga gak bikin tekor.",
 }
